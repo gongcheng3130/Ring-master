@@ -1,5 +1,5 @@
 # Ring圆环进度
-![github](https://github.com/zhongruiAndroid/Ring/blob/master/app/src/main/res/drawable/ring.gif "github")  
+![github](https://github.com/gongcheng3130/Ring-master/blob/master/app/src/main/res/drawable/ring.gif "github")  
 
 | 属性                    | 类型      | 说明                                                                             |
 |-------------------------|-----------|----------------------------------------------------------------------------------|
